@@ -1,0 +1,124 @@
+1	9	Riste Pandev	 Macedonia	0.145	10.72	Q, SB	Prelim	Heat	1	-0.2
+2	8	Sudirman Hadi	 Indonesia	0.136	10.77	Q	Prelim	Heat	1	-0.2
+3	4	Mohammed Abukhousa	 Palestine	0.176	10.82	q	Prelim	Heat	1	-0.2
+4	5	Holder da Silva	 Guinea-Bissau	0.165	10.97		Prelim	Heat	1	-0.2
+5	6	Wilfried Bingangoye	 Gabon	0.145	11.03		Prelim	Heat	1	-0.2
+6	2	Mohamed Lamine Dansoko	 Guinea	0.145	11.05		Prelim	Heat	1	-0.2
+7	7	Abdul Wahab Zahiri	 Afghanistan	0.17	11.56		Prelim	Heat	1	-0.2
+8	3	Richson Simeon	 Marshall Islands	0.136	11.81	SB	Prelim	Heat	1	-0.2
+1	2	Hassan Saaid	 Maldives	0.13	10.43	Q	Prelim	Heat	2	0.4
+2	6	Siueni Filimone	 Tonga	0.155	10.76	Q, SB	Prelim	Heat	2	0.4
+3	7	Luke Bezzina	 Malta	0.167	11.04		Prelim	Heat	2	0.4
+4	5	Masbah Ahmmed	 Bangladesh	0.137	11.34		Prelim	Heat	2	0.4
+5	4	Isaac Silafau	 American Samoa	0.141	11.51		Prelim	Heat	2	0.4
+6	8	John Ruuka	 Kiribati	0.178	11.65		Prelim	Heat	2	0.4
+7	3	Hermenegildo Leite	 Angola	0.145	11.65		Prelim	Heat	2	0.4
+1	7	Rodman Teltull	 Palau	0.135	10.53	Q	Prelim	Heat	3	-0.3
+2	6	Jin Wei Timothee Yap	 Singapore	0.14	10.84	Q	Prelim	Heat	3	-0.3
+3	3	Mohamed Fakhri Ismail	 Brunei	0.163	10.92	q	Prelim	Heat	3	-0.3
+4	4	Ishmail Kamara	 Sierra Leone	0.146	10.95		Prelim	Heat	3	-0.3
+5	5	Kitson Kapiriel	 Federated States of Micronesia	0.159	11.42		Prelim	Heat	3	-0.3
+6	2	Jidou El Moctar	 Mauritania	0.157	11.44		Prelim	Heat	3	-0.3
+7	8	Etimoni Timuani	 Tuvalu	0.143	11.81		Prelim	Heat	3	-0.3
+1	3	Kemarley Brown	 Bahrain	0.146	10.13	Q	Round	Heat	1	-1.2
+2	5	Chijindu Ujah	 Great Britain	0.15	10.13	Q	Round	Heat	1	-1.2
+3	7	Marvin Bracy	 United States	0.155	10.16	q	Round	Heat	1	-1.2
+4	2	Seye Ogunlewe	 Nigeria	0.139	10.26		Round	Heat	1	-1.2
+5	1	Femi Ogunode	 Qatar	0.17	10.28		Round	Heat	1	-1.2
+6	8	Sean Safo-Antwi	 Ghana	0.145	10.43		Round	Heat	1	-1.2
+7	9	Reza Ghasemi	 Iran	0.15	10.47		Round	Heat	1	-1.2
+8	6	Adrian Griffith	 Bahamas	0.143	10.53		Round	Heat	1	-1.2
+9	4	Mohamed Fakhri Ismail	 Brunei	0.151	10.95		Round	Heat	1	-1.2
+1	8	Justin Gatlin	 United States	0.16	10.01	Q	Round	Heat	2	0.8
+2	7	Daniel Bailey	 Antigua and Barbuda	0.153	10.2	Q	Round	Heat	2	0.8
+3	1	Rondel Sorrillo	 Trinidad and Tobago	0.112	10.23		Round	Heat	2	0.8
+4	5	Gerald Phiri	 Zambia	0.146	10.27		Round	Heat	2	0.8
+5	9	Lucas Jakubczyk	 Germany	0.166	10.29		Round	Heat	2	0.8
+6	6	Ogho-Oghene Egwero	 Nigeria	0.151	10.37		Round	Heat	2	0.8
+7	3	Wilfried Koffi Hua	 Ivory Coast	0.166	10.37		Round	Heat	2	0.8
+8	2	Rodman Teltull	 Palau	0.133	10.64		Round	Heat	2	0.8
+9	4	Riste Pandev	 Macedonia	0.163	10.71	SB	Round	Heat	2	0.8
+1	5	Xie Zhenye	 China	0.143	10.08	Q, PB	Round	Heat	3	-0.1
+2	3	Nickel Ashmeade	 Jamaica	0.132	10.13	Q	Round	Heat	3	-0.1
+3	6	Hassan Taftian	 Iran	0.15	10.17	q	Round	Heat	3	-0.1
+4	2	Kim Collins	 Saint Kitts and Nevis	0.151	10.18	q	Round	Heat	3	-0.1
+5	4	Abdullah Abkar Mohammed	 Saudi Arabia	0.154	10.26		Round	Heat	3	-0.1
+6	7	Aziz Ouhadi	 Morocco	0.158	10.34		Round	Heat	3	-0.1
+7	9	Kemar Hyman	 Cayman Islands	0.16	10.34		Round	Heat	3	-0.1
+8	8	Darrell Wesh	 Haiti	0.138	10.39		Round	Heat	3	-0.1
+1	3	Andre De Grasse	 Canada	0.148	10.04	Q	Round	Heat	4	-0.5
+2	9	Asuka Cambridge	 Japan	0.137	10.13	Q	Round	Heat	4	-0.5
+3	2	Su Bingtian	 China	0.146	10.17	q	Round	Heat	4	-0.5
+4	1	Jimmy Vicaut	 France	0.164	10.19	q	Round	Heat	4	-0.5
+5	7	Churandy Martina	 Netherlands	0.142	10.22		Round	Heat	4	-0.5
+6	5	Emmanuel Matadi	 Liberia	0.146	10.31		Round	Heat	4	-0.5
+7	8	Julian Reus	 Germany	0.135	10.34		Round	Heat	4	-0.5
+8	6	Jamial Rolle	 Bahamas	0.145	10.68		Round	Heat	4	-0.5
+9	4	Sudirman Hadi	 Indonesia	0.122	10.7		Round	Heat	4	-0.5
+1	9	Ben Youssef Meïté	 Ivory Coast	0.145	10.03	Q	Round	Heat	5	0.2
+2	5	Trayvon Bromell	 United States	0.165	10.13	Q	Round	Heat	5	0.2
+3	4	Christophe Lemaitre	 France	0.15	10.16	q	Round	Heat	5	0.2
+4	7	Cejhae Greene	 Antigua and Barbuda	0.156	10.2	q	Round	Heat	5	0.2
+5	8	Keston Bledman	 Trinidad and Tobago	0.15	10.2		Round	Heat	5	0.2
+6	1	Akeem Haynes	 Canada	0.123	10.22		Round	Heat	5	0.2
+7	6	Gabriel Mvumvure	 Zimbabwe	0.131	10.28		Round	Heat	5	0.2
+8	2	Hassan Saaid	 Maldives	0.135	10.47		Round	Heat	5	0.2
+–	3	Siueni Filimone	 Tonga	N/A	DNS		Round	Heat	5	0.2
+1	4	Yohan Blake	 Jamaica	0.154	10.11	Q	Round	Heat	6	-0.8
+2	8	Jak Ali Harvey	 Turkey	0.159	10.14	Q	Round	Heat	6	-0.8
+3	9	Barakat Alharthi	 Oman	0.155	10.22		Round	Heat	6	-0.8
+4	2	Mosito Lehata	 Lesotho	0.151	10.25		Round	Heat	6	-0.8
+5	6	James Ellington	 Great Britain	0.145	10.29		Round	Heat	6	-0.8
+6	3	Henricho Bruintjies	 South Africa	0.107	10.33		Round	Heat	6	-0.8
+7	5	Zhang Peimeng	 China	0.121	10.36		Round	Heat	6	-0.8
+8	7	Antoine Adams	 Saint Kitts and Nevis	0.149	10.39		Round	Heat	6	-0.8
+1	6	Usain Bolt	 Jamaica	0.156	10.07	Q	Round	Heat	7	-0.4
+2	3	Andrew Fisher	 Bahrain	0.134	10.12	Q	Round	Heat	7	-0.4
+3	7	James Dasaolu	 Great Britain	0.171	10.18	q	Round	Heat	7	-0.4
+4	9	Yoshihide Kiryu	 Japan	0.15	10.23		Round	Heat	7	-0.4
+5	2	Shavez Hart	 Bahamas	0.139	10.28	SB	Round	Heat	7	-0.4
+6	5	Richard Thompson	 Trinidad and Tobago	0.13	10.29		Round	Heat	7	-0.4
+7	8	Jahvid Best	 Saint Lucia	0.147	10.39		Round	Heat	7	-0.4
+8	1	Jurgen Themen	 Suriname	0.139	10.47		Round	Heat	7	-0.4
+9	4	Jin Wei Timothee Yap	 Singapore	0.149	10.79		Round	Heat	7	-0.4
+1	4	Akani Simbine	 South Africa	0.124	10.14	Q	Round	Heat	8	-1.3
+2	1	Ryota Yamagata	 Japan	0.111	10.2	Q	Round	Heat	8	-1.3
+3	7	Aaron Brown	 Canada	0.135	10.24		Round	Heat	8	-1.3
+4	9	Ramon Gittens	 Barbados	0.162	10.25		Round	Heat	8	-1.3
+5	2	Solomon Bockarie	 Netherlands	0.127	10.36		Round	Heat	8	-1.3
+5	5	Vitor Hugo dos Santos	 Brazil	0.157	10.36		Round	Heat	8	-1.3
+7	6	Kim Kuk-young	 South Korea	0.135	10.37		Round	Heat	8	-1.3
+8	3	Brijesh Lawrence	 Saint Kitts and Nevis	0.163	10.55		Round	Heat	8	-1.3
+9	8	Mohammed Abukhousa	 Palestine	0.153	11.89		Round	Heat	8	-1.3
+1	3	Jimmy Vicaut	 France	0.131	9.95	Q	Semifinals	Semifinal	1	0.2
+2	7	Ben Youssef Meïté	 Ivory Coast	0.142	9.97	Q, NR	Semifinals	Semifinal	1	0.2
+3	5	Akani Simbine	 South Africa	0.144	9.98	q	Semifinals	Semifinal	1	0.2
+4	9	Jak Ali Harvey	 Turkey	0.148	10.03		Semifinals	Semifinal	1	0.2
+5	4	Nickel Ashmeade	 Jamaica	0.118	10.05		Semifinals	Semifinal	1	0.2
+6	8	Marvin Bracy	 United States	0.152	10.08		Semifinals	Semifinal	1	0.2
+7	6	Xie Zhenye	 China	0.134	10.11		Semifinals	Semifinal	1	0.2
+8	2	Hassan Taftian	 Iran	0.136	10.23		Semifinals	Semifinal	1	0.2
+1	6	Usain Bolt	 Jamaica	0.143	9.86	Q, SB	Semifinals	Semifinal	2	0.2
+2	5	Andre De Grasse	 Canada	0.13	9.92	Q, PB	Semifinals	Semifinal	2	0.2
+3	9	Trayvon Bromell	 United States	0.128	10.01	q	Semifinals	Semifinal	2	0.2
+4	7	Chijindu Ujah	 Great Britain	0.16	10.01		Semifinals	Semifinal	2	0.2
+5	8	Ryota Yamagata	 Japan	0.109	10.05	PB	Semifinals	Semifinal	2	0.2
+6	3	Kim Collins	 Saint Kitts and Nevis	0.138	10.12		Semifinals	Semifinal	2	0.2
+7	2	Cejhae Greene	 Antigua and Barbuda	0.143	10.13		Semifinals	Semifinal	2	0.2
+–	4	Andrew Fisher	 Bahrain	N/A	DQ	R162.7	Semifinals	Semifinal	2	0.2
+1	6	Justin Gatlin	 United States	0.151	9.94	Q	Semifinals	Semifinal	3	0
+2	4	Yohan Blake	 Jamaica	0.147	10.01	Q	Semifinals	Semifinal	3	0
+3	9	Christophe Lemaitre	 France	0.122	10.07	SB	Semifinals	Semifinal	3	0
+4	3	Su Bingtian	 China	0.14	10.08	SB	Semifinals	Semifinal	3	0
+5	5	Kemarley Brown	 Bahrain	0.152	10.13		Semifinals	Semifinal	3	0
+6	2	James Dasaolu	 Great Britain	0.145	10.16		Semifinals	Semifinal	3	0
+7	7	Asuka Cambridge	 Japan	0.135	10.17		Semifinals	Semifinal	3	0
+–	8	Daniel Bailey	 Antigua and Barbuda	N/A	DNS		Semifinals	Semifinal	3	0
+1st place, gold medalist(s)	6	Usain Bolt	 Jamaica	0.155	9.81	SB	Final	Final	1	0.2
+2nd place, silver medalist(s)	4	Justin Gatlin	 United States	0.152	9.89		Final	Final	1	0.2
+3rd place, bronze medalist(s)	7	Andre De Grasse	 Canada	0.141	9.91	PB	Final	Final	1	0.2
+4	9	Yohan Blake	 Jamaica	0.145	9.93	SB	Final	Final	1	0.2
+5	3	Akani Simbine	 South Africa	0.128	9.94		Final	Final	1	0.2
+6	8	Ben Youssef Meïté	 Ivory Coast	0.156	9.96	NR	Final	Final	1	0.2
+7	5	Jimmy Vicaut	 France	0.14	10.04		Final	Final	1	0.2
+8	2	Trayvon Bromell	 United States	0.135	10.06		Final	Final	1	0.2
